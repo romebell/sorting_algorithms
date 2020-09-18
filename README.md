@@ -1,2 +1,2 @@
-# bubble_sort_solution
-This is the Bubble Sort Algorithm solution
+# Sorting Algorithms
+This is the repo for a few sorting algorithms.
