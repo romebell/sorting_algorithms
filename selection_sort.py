@@ -13,3 +13,4 @@ def selection_sort(ls):
     print('Sorted list')
     print(ls)
 ​
+selection_sort(numbers)
