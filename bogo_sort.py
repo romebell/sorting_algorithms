@@ -18,4 +18,4 @@ def bogo_sort(ls):
     return bogo_sort(ls)
 ​
 test = [1, 9, 23, 5, 2, 6, 45]
-print('Testing', test,'and it is ', bogo_sort(test), ' Sort was found after ', tries, '
+print('Testing', test, 'and it is ', bogo_sort(test), ' Sort was found after ', tries, ' tries')
